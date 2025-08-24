@@ -1,7 +1,7 @@
 # Docker Observability Toolkit
 
 Welcome to **Docker Observability Toolkit**! 🎓  
-This repository is designed as a **pedagogical, HR-friendly tool** for exploring modern observability solutions with Docker. Learn by doing: logs, metrics, and monitoring all in one place.
+This repository is designed as a **pedagogical tool** for exploring modern observability solutions with Docker. Learn by doing: logs, metrics, and monitoring all in one place.
 
 ## Project Overview
 
